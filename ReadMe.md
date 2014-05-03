@@ -56,6 +56,7 @@ instead:
 	Half Width:				col-half
 	One-Third Width:		col-third
 	One-Quarter Width:		col-quarter
+	Two-Thirds Width:		col-twothirds
 	Three-Quarters Width:	col-threequarter
 	
 So, using the same example above for a three column section, this too would work:

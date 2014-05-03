@@ -39,6 +39,7 @@
 
 .col-full {width:100%;}
 .col-threequarter {width:75%;}
+.col-twothirds {width:66.66%;}
 .col-half {width:50%;}
 .col-third {width:33.33%;}
 .col-quarter {width:25%;}
@@ -82,6 +83,7 @@
 	.col-9,
 	.col-11,
 	.col-threequarter,
+	.col-twothirds,
 	.col-half,
 	.col-third{
 		width: 100%;
@@ -114,6 +116,7 @@
 	.col-11,
 	.col-12,
 	.col-threequarter,
+	.col-twothirds,
 	.col-half,
 	.col-third,
 	.col-quarter{
